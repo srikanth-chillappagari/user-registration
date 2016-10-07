@@ -1,6 +1,6 @@
-#Java Project
+#User Registration Project
 
-*Project for creating Java applications which do coomon tasks.*
+*Java application which reisters a users in the system.*
 
 **Java 7**
 
